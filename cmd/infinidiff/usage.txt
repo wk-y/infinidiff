@@ -1,0 +1,3 @@
+Usage: infinidiff FILES
+
+    -h, -help display usage and exit
